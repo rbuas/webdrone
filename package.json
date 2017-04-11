@@ -10,7 +10,7 @@
     "test"
   ],
   "license": "MIT",
-  "main": "./resttest",
+  "main": "./index",
   "repository": {
     "type": "git",
     "url": "http://github.com/rbuas/webdrone.git"
