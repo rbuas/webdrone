@@ -1,0 +1,31 @@
+{
+  "name": "webdrone",
+  "version": "0.0.0",
+  "description": "A nodejs library to scrap and test web pages and services.",
+  "author": "rbuas <rodrigobuas@gmail.com>",
+  "keywords": [
+    "web",
+    "scrap",
+    "drone",
+    "test"
+  ],
+  "license": "MIT",
+  "main": "./resttest",
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/rbuas/webdrone.git"
+  },
+  "dependencies": {
+    "jsext": "^1.0.0"
+  },
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "express": "^4.15.2",
+    "mocha": "^2.4",
+    "moment": "^2.18.1",
+    "yargs": "^4.8.0"
+  },
+  "scripts": {
+    "unittest": "mocha *.unittest.js"
+  }
+}
