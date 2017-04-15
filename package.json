@@ -1,6 +1,6 @@
 {
   "name": "webdrone",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A nodejs library to scrap and test web pages and services.",
   "author": "rbuas <rodrigobuas@gmail.com>",
   "keywords": [
