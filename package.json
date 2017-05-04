@@ -16,7 +16,7 @@
     "url": "http://github.com/rbuas/webdrone.git"
   },
   "dependencies": {
-    "jsext": "^1.0.0"
+    "jsext": "^1.0.6"
   },
   "devDependencies": {
     "chai": "^3.5.0",
